@@ -17,8 +17,6 @@ Soy un desarrollador web con pasión por crear soluciones eficientes, bien dise�
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 📊 GitHub Stats
 
