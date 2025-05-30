@@ -34,6 +34,4 @@ Soy un desarrollador web con pasión por crear soluciones eficientes, bien dise�
 
 ---
 
-> “El mejor código es el que no necesita comentarios.” – *Alguien muy sabio*
-
 <!-- ¡Gracias por visitar mi perfil! -->
