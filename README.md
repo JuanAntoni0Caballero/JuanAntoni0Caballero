@@ -18,14 +18,6 @@ Soy un desarrollador web con pasión por crear soluciones eficientes, bien dise�
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanAntoni0Caballero&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JuanAntoni0Caballero&theme=github-dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAntoni0Caballero&layout=compact&theme=github_dark" />
-</div>
-
 ## 📫 ¡Hablemos!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-antonio-caballero-web-developer/)
